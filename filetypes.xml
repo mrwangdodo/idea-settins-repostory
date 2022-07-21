@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="nginx" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ftl" approved="true" type="HTML" />
+      <removed_mapping ext="ftl" approved="true" type="JSPX" />
+      <removed_mapping ext="ftl" approved="true" type="XHTML" />
+      <removed_mapping ext="ftl" approved="true" type="XML" />
+      <removed_mapping ext="htm" approved="true" type="HTML" />
+      <removed_mapping ext="html" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="?.html" approved="true" type="HTML" />
+    </extensionMap>
+  </component>
+</application>

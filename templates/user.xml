@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="forvar" value="for (var i = 0, forLen = array.length; i &lt; forLen; i++) {&#10;  var item = array[i];&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

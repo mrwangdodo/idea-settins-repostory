@@ -1,0 +1,24 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="ownAssociations">
+          <map>
+            <entry key="Javascript">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.([cm]?js|es\d)$" />
+                  <option name="pattern" value=".*\.([cm]?js|es\d)$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="Javascript" />
+                  <option name="icon" value="D:\helloTools\IntelliJ IDEA 2020.3.4\my-themes\icons\JS.svg" />
+                  <option name="priority" value="1" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>

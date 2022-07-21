@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.ftl" lang="HTML" />
+  </component>
+</application>
