@@ -4,7 +4,7 @@
     <property name="created">2022-02-26T14:34:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-07-25T15:59:13</property>
+    <property name="modified">2022-07-25T17:27:17</property>
     <property name="originalScheme">Minimal</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -20,7 +20,31 @@
     <option name="TEARLINE_COLOR" value="d4d4d4" />
   </colors>
   <attributes>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="94f0" />
+      </value>
+    </option>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a88c00" />
+      </value>
+    </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e74800" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ea8000" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b3694d" />
+      </value>
+    </option>
     <option name="CSS.CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="977f02" />
@@ -156,7 +180,9 @@
       <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value />
@@ -178,6 +204,11 @@
       <value>
         <option name="BACKGROUND" value="c2d8f2" />
         <option name="ERROR_STRIPE_COLOR" value="b6d2f2" />
+      </value>
+    </option>
+    <option name="ENUM_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a1ef" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -251,9 +282,20 @@
       <value />
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="965100" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a8b6" />
+      </value>
+    </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ee5e0d" />
+        <option name="FOREGROUND" value="ff5792" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.DECORATOR">
@@ -332,6 +374,11 @@
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value />
     </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b3694d" />
+      </value>
+    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="ff" />
@@ -347,6 +394,11 @@
         <option name="BACKGROUND" value="c9ecec" />
       </value>
     </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a1c0" />
+      </value>
+    </option>
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="83080" />
@@ -358,12 +410,23 @@
     <option name="PY.KEYWORD_ARGUMENT">
       <value />
     </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b3694d" />
+        <option name="EFFECT_COLOR" value="909090" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="8080" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e57b00" />
+      </value>
+    </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
