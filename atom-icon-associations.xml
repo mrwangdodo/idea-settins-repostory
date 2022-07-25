@@ -4,6 +4,18 @@
       <SelectedAssociations>
         <option name="ownAssociations">
           <map>
+            <entry key="Java">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.(java|jar|war)$" />
+                  <option name="pattern" value=".*\.(java|jar|war)$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="Java" />
+                  <option name="icon" value="D:\helloTools\IntelliJ IDEA 2020.3.4\my-themes\icons\java.svg" />
+                  <option name="priority" value="1" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="Javascript">
               <value>
                 <RegexAssociation>
