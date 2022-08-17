@@ -10,9 +10,9 @@
     <mask>*.less</mask>
     <mask>.java</mask>
     <mask>*.java</mask>
-    <mask>*.ftl</mask>
     <mask>*.js</mask>
     <mask>.ftl</mask>
     <mask>*.css</mask>
+    <mask>*.ftl</mask>
   </component>
 </application>
