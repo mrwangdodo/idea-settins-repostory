@@ -5,12 +5,13 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.less</mask>
     <mask>.java</mask>
     <mask>*.java</mask>
     <mask>.ftl</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.ftl</mask>
+    <mask>*.js</mask>
   </component>
 </application>
