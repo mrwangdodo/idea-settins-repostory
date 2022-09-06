@@ -16,7 +16,7 @@
               <ExternalTool>
                 <option name="argumentPattern" value="%1 %2 %3" />
                 <option name="name" value="BCompare.exe" />
-                <option name="programPath" value="D:\HelloWorld\Beyond Compare 4\BCompare.exe" />
+                <option name="programPath" value="E:\Beyond Compare 4\BCompare.exe" />
               </ExternalTool>
             </list>
           </value>
@@ -28,7 +28,7 @@
                 <option name="argumentPattern" value="%1 %2 %3 %4" />
                 <option name="groupName" value="MERGE_TOOL" />
                 <option name="name" value="BCompare.exe" />
-                <option name="programPath" value="D:\HelloWorld\Beyond Compare 4\BCompare.exe" />
+                <option name="programPath" value="E:\Beyond Compare 4\BCompare.exe" />
               </ExternalTool>
             </list>
           </value>
