@@ -13,10 +13,10 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.less</mask>
     <mask>.java</mask>
-    <mask>.ftl</mask>
     <mask>*.css</mask>
     <mask>*.java</mask>
     <mask>*.ftl</mask>
     <mask>*.js</mask>
+    <mask>.ftl</mask>
   </component>
 </application>
