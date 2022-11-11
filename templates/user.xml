@@ -1,0 +1,21 @@
+<templateSet group="user">
+  <template name="forvar" value="for (var i = 0, forLen = array.length; i &lt; forLen; i++) {&#10;  var item = array[i];&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="trycatch" value="try {&#10;  $SELECTION$&#10;} catch (error) {&#10;  &#10;}" description="trycatch" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($SELECTION$) {&#10;  case value:&#10;    &#10;    break;&#10;&#10;  default:&#10;    break;&#10;}" description="switch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

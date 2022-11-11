@@ -1,0 +1,9 @@
+<application>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_EXE_PATH" value="D:\helloTools\Beyond Compare 4\BCompare.exe" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="D:\helloTools\Beyond Compare 4\BCompare.exe" />
+  </component>
+</application>
