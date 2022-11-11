@@ -1,9 +1,43 @@
 <application>
   <component name="ExternalDiffSettings">
-    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DEFAULT_TOOL_CONFIGURATION">
+      <ExternalToolConfiguration>
+        <option name="diffToolName" value="BCompare.exe" />
+        <option name="mergeToolName" value="BCompare.exe" />
+      </ExternalToolConfiguration>
+    </option>
     <option name="DIFF_ENABLED" value="true" />
     <option name="DIFF_EXE_PATH" value="D:\helloTools\Beyond Compare 4\BCompare.exe" />
+    <option name="EXTERNAL_TOOLS">
+      <map>
+        <entry key="DIFF_TOOL">
+          <value>
+            <list>
+              <ExternalTool>
+                <option name="argumentPattern" value="%1 %2 %3" />
+                <option name="name" value="BCompare.exe" />
+                <option name="programPath" value="D:\HelloSoftware\Beyond Compare 4\BCompare.exe" />
+              </ExternalTool>
+            </list>
+          </value>
+        </entry>
+        <entry key="MERGE_TOOL">
+          <value>
+            <list>
+              <ExternalTool>
+                <option name="argumentPattern" value="%1 %2 %3 %4" />
+                <option name="groupName" value="MERGE_TOOL" />
+                <option name="name" value="BCompare.exe" />
+                <option name="programPath" value="D:\HelloSoftware\Beyond Compare 4\BCompare.exe" />
+              </ExternalTool>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="EXTERNAL_TOOLS_ENABLED" value="true" />
     <option name="MERGE_ENABLED" value="true" />
     <option name="MERGE_EXE_PATH" value="D:\helloTools\Beyond Compare 4\BCompare.exe" />
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
 </application>
