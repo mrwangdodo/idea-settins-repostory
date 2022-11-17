@@ -15,9 +15,9 @@
     <mask>*.less</mask>
     <mask>.java</mask>
     <mask>*.css</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>.ftl</mask>
+    <mask>*.java</mask>
     <mask>*.ftl</mask>
   </component>
 </application>
