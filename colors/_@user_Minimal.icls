@@ -4,7 +4,7 @@
     <property name="created">2022-02-26T14:34:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-07-26T10:53:13</property>
+    <property name="modified">2022-12-08T17:57:49</property>
     <property name="originalScheme">Minimal</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -350,6 +350,11 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="264eff" />
+      </value>
+    </option>
+    <option name="JS.STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b270e8" />
       </value>
     </option>
     <option name="JS.STRING">
