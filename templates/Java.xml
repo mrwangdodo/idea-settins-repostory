@@ -9,4 +9,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="tryf" value="try {&#10;  $END$&#10;} finally {&#10;}" description="try finally" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
