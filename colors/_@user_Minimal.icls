@@ -4,7 +4,7 @@
     <property name="created">2022-02-26T14:34:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-12-15T14:55:51</property>
+    <property name="modified">2023-05-15T10:33:00</property>
     <property name="originalScheme">Minimal</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -308,7 +308,11 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="da5f0f" />
+      </value>
+    </option>
     <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="965100" />
@@ -430,6 +434,9 @@
       <value>
         <option name="FOREGROUND" value="a1c0" />
       </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value />
     </option>
     <option name="PROPERTIES.KEY">
       <value>
