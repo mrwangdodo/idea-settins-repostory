@@ -4,6 +4,7 @@
       <mapping pattern="nginx" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="xmind" type="Native" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ftl" approved="true" type="HTML" />
