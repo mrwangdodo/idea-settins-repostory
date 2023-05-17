@@ -4,7 +4,7 @@
     <property name="created">2022-02-26T14:34:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2023-05-15T10:33:00</property>
+    <property name="modified">2023-05-17T18:28:23</property>
     <property name="originalScheme">Minimal</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -323,10 +323,29 @@
         <option name="FOREGROUND" value="a8b6" />
       </value>
     </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5b5f5f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5b5f5f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff5792" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5b5f5f" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="JS.DECORATOR">
