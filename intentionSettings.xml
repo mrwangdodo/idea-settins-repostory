@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Other/Auto fill call parameters" />
+  </component>
+</application>
