@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="JetBrainsLightTheme" />
+    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="e4831bd3-5328-4eb4-b4b4-cf6ce83608ab" />
     <preferred-light-laf class-name="com.intellij.laf.win10.WinIntelliJLaf" />
   </component>
 </application>
