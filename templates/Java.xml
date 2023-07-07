@@ -4,7 +4,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="try" value="try {&#10;  $END$&#10;} catch (InterruptedException e) {&#10;  throw new RuntimeException(e);&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
+  <template name="try" value="try {&#10;  $END$&#10;} catch (Exception e) {&#10;  throw new RuntimeException(e);&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
