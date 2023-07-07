@@ -8,9 +8,14 @@
       <map>
         <entry key="inheritors" value="Default" />
         <entry key="problems" value="Default" />
-        <entry key="references" value="Default" />
+        <entry key="references" value="Right" />
         <entry key="vcs.code.vision" value="Default" />
       </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="references" />
+      </set>
     </option>
   </component>
   <component name="DaemonCodeAnalyzerSettings">
@@ -22,7 +27,7 @@
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="2" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value=".references" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
