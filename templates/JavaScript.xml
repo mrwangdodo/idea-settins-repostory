@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="switch" value="switch ($VAR$) {&#10;&#9;&#9;&#9;case $END$:&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;break;&#10;&#9;&#9;&#10;&#9;&#9;&#9;default:&#10;&#9;&#9;&#9;&#9;break;&#10;&#9;&#9;}" description="switch" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
