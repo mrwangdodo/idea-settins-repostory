@@ -4,7 +4,7 @@
     <property name="created">2022-02-26T14:34:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2023-05-17T18:28:23</property>
+    <property name="modified">2023-09-07T11:05:57</property>
     <property name="originalScheme">Minimal</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -97,6 +97,7 @@
       <value>
         <option name="FOREGROUND" value="6dcc" />
         <option name="EFFECT_COLOR" value="6dcc" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
@@ -201,6 +202,16 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="1750eb" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="f11e66" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="bb5026" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -455,7 +466,9 @@
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="331c11" />
+      </value>
     </option>
     <option name="PROPERTIES.KEY">
       <value>
